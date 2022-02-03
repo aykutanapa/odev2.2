@@ -1,0 +1,51 @@
+
+
+footer {
+    text-align: center;
+    margin-top: 4em;
+    padding: 2em;
+}
+
+.container {
+    width: 90%;
+    margin: 0 5%;
+}
+
+.logo {
+    text-align: -webkit-center;
+}
+
+.search-bar {
+    text-align: center;
+    background-color: #efefef;
+}
+
+p {
+    margin: 0;
+}
+
+section {
+display: block;
+}
+
+.info {
+    width: 40%;
+    height: 5em;
+    margin-top: 3px;
+    float: left;
+    text-align: center;
+    background-color: #62B3AA;
+}
+
+.info:first-child {
+    padding-top: 0.75em;
+    height: 4.25em;
+    background-color: #7EE5DA;
+}
+
+#lbox {
+    width: 19.6%;
+    margin: 3px 3px 0;
+    background-color: #70CCC2;
+
+}
